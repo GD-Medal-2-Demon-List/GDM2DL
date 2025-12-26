@@ -3,16 +3,16 @@
     "name": "Crystal",
     "author": "Zeroniumm",
     "creators": ["Zeroniumm"],
-    "verifier": "Altaspooneus",
-    "verification": "https://youtu.be/u5eHe_ygPPM?si=XJLmSCPzSUN_DJzH",
+    "verifier": "Yourlighy",
+    "verification": "https://www.youtube.com/watch?v=PnpEtS8FY04",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "YourLighy",
-            "link": "https://www.youtube.com/watch?v=PnpEtS8FY04",
+            "user": "Altaspooneus",
+            "link": "https://youtu.be/u5eHe_ygPPM?si=XJLmSCPzSUN_DJzH",
             "percent": 100,
-            "hz": 280
+            "hz": 360
         }
     ]
 }
