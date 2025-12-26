@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
+    "id": 52310333,
+    "name": "Lucid Nightmares",
+    "author": "CairoX",
+    "creators": ["CairoX", "DonutTV"],
+    "verifier": "rWooshi",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Squidkid72",
+            "link": "https://www.youtube.com/watch?v=G7hBE5qWx6M",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         }
     ]
 }
