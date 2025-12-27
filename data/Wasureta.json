@@ -13,10 +13,16 @@
             "link": "https://youtu.be/qOe4soYP3TI",
             "percent": 100,
             "hz": 480
-        },
+        }        },
         {
             "user": "InternetDasher",
             "link": "https://youtu.be/lCctnIdSGfw?si=qaIWI_swUvzUDtl8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Hydraniac",
+            "link": "https://youtu.be/TwWLKjS9-q4?si=V0hea_SQbot_d-Pb",
             "percent": 100,
             "hz": 240
         }
