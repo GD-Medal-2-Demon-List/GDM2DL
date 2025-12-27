@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/yLA34VxZj68",
     "percentToQualify": 100,
     "password": "Not Copyable",
-    "records": [
+    "records": [        
+        {
+            "user": "fusemax",
+            "link": "https://www.youtube.com/watch?v=H7GZDwX8nPo&t",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
