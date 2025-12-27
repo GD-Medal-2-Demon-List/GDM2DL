@@ -1,1 +1,18 @@
-
+{
+    "id": 79997992,
+    "name": "Shardscapes",
+    "author": "Itzkiba",
+    "creators": ["Itzkiba"],
+    "verifier": "NLShorty",
+    "verification": "https://youtu.be/bHvAelWb0E0?si=Ncg944aEon1_k7vF",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Lol amaZon",
+            "link": "https://youtu.be/2IgwewyJruE?si=XTD_DylzxRJ4Zn_D",
+            "percent": 100,
+            "hz": 720
+        }
+    ]
+}
