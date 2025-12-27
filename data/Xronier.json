@@ -3,10 +3,16 @@
     "name": "Xronier",
     "author": "JinoBeats",
     "creators": ["JinoBeats"],
-    "verifier": "alen",
-    "verification": "https://youtu.be/nLZfMrz9_wg?si=c2RqvE1IasrmDGxR",
+    "verifier": "sn0w",
+    "verification": "https://youtu.be/eO_ykSTE3A0",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+                {
+            "user": "alen",
+            "link": "https://youtu.be/nLZfMrz9_wg?si=c2RqvE1IasrmDGxR",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
