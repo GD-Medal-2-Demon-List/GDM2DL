@@ -1,1 +1,18 @@
-
+{
+    "id": 73667628,
+    "name": "Acheron",
+    "author": "ryamu",
+    "creators": ["ryamu and more"],
+    "verifier": "Unlucky",
+    "verification": "https://youtu.be/s79u5znl_YI?si=qQ31RTbHDayeddoP",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "NLShorty",
+            "link": "https://youtu.be/P1lpmowngIg?si=DwpYytD2LsSdzt46",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
