@@ -1,24 +1,30 @@
 {
-    "id": 88136707,
-    "name": "Sky Shredder",
-    "author": "",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
+    "id": 57436521,
+    "name": "SampleLevel1",
+    "author": "Dorvict",
+    "creators": ["Dorvict"],
+    "verifier": "NLShorty",
+    "verification": "https://www.youtube.com/watch?v=cHRouw-m_jY",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Bizdogg",
+            "link": "https://youtu.be/gmkXcNDuPzw?si=PguJBaynz0NBKKFh",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "sn0w",
+            "link": "https://youtu.be/BHUBjv42YQ4?si=aJDdQ1omdbuagfWb",
             "percent": 100,
-            "hz": 120
+            "hz": 240
+        },
+        {
+            "user": "Snake",
+            "link": "https://youtu.be/eULPfxcomHY?si=xR97d2Wx8d3khglo",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
