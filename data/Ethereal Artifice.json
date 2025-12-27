@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+        }              {
+            "user": "InternetDasher",
+            "link": "https://youtu.be/GD7508pmh2g?si=JHuhhFZ_KUZOR27-",
+            "percent": 100,
+            "hz": 240
                 {
             "user": "fusemax",
             "link": "https://www.youtube.com/watch?v=9-TPPZ_OKnM",
@@ -18,6 +23,11 @@
             "link": "https://youtu.be/QH2W0WVc7OQ?si=UkgLyIXCQ5_gYoHE",
             "percent": 100,
             "hz": 360
-        }
+        },                {
+            "user": "InternetDasher",
+            "link": "https://youtu.be/GD7508pmh2g?si=JHuhhFZ_KUZOR27-",
+            "percent": 100,
+            "hz": 240
+                }
     ]
 }
