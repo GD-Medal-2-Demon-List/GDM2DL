@@ -3,16 +3,16 @@
     "name": "The Golden",
     "author": "BoBoBoBoBoBoBo",
     "creators": ["BoBoBoBoBoBoBo"],
-    "verifier": "Bizdogg",
-    "verification": "https://youtu.be/_yK29J2LejY?si=9KIk_VFo66Hi2w7V",
+    "verifier": "Snake",
+    "verification": "https://youtu.be/7oUBKcXG0h8?si=vgzquahXy4rr9ebW",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
                 {
-            "user": "Snake",
-            "link": "https://youtu.be/7oUBKcXG0h8?si=vgzquahXy4rr9ebW",
+            "user": "Bizdogg",
+            "link": "https://youtu.be/_yK29J2LejY?si=9KIk_VFo66Hi2w7V",
             "percent": 100,
-            "hz": 240
+            "hz": 240 
         }
     ]
 }
