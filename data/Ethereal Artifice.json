@@ -3,8 +3,8 @@
     "name": "Ethereal Artifice",
     "author": "Zeroya",
     "creators": ["Zeroya and more"],
-    "verifier": "YourLighy",
-    "verification": "https://www.youtube.com/watch?v=kmQ2jEUhwb8&t=3s",
+    "verifier": "sn0w",
+    "verification": "https://youtu.be/_WTIQ3vkKqs?si=jFydLZzYh0VTNB1J", 
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
@@ -34,6 +34,10 @@
             "link": "https://medal.tv/games/geometry-dash/clips/lnOeQiWE4ix9DKLXx?invite=cr-MSxjY0YsMjAzMjYwMTYy",
             "percent": 100,
             "hz": 360
-                }
+                },                {
+            "user": "YourLighy",
+            "link": "https://www.youtube.com/watch?v=kmQ2jEUhwb8&t=3s",
+            "percent": 100,
+            "hz": 280
     ]
 }
