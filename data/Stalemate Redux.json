@@ -3,10 +3,16 @@
     "name": "Stalemate Redux",
     "author": "GdTheTactiq",
     "creators": ["GdTheTactiq", "TheFrozenTide"],
-    "verifier": "Screendoe",
-    "verification": "https://youtu.be/je_rXULc-Dg?si=I6w_3Y8Rx6Z4VLpu",
+    "verifier": "sn0w",
+    "verification": "https://youtu.be/4lAmRMYZoKU",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+                {
+            "user": "Screendoe",
+            "link": "https://youtu.be/je_rXULc-Dg?si=I6w_3Y8Rx6Z4VLpu",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
