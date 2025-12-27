@@ -3,10 +3,16 @@
     "name": "Chromatic Haze",
     "author": "Cirtrax",
     "creators": ["Cirtrax", "Gizbro"],
-    "verifier": "Altaspooneus",
-    "verification": "https://youtu.be/iWf1CLhnuXE?si=ZIRnKrMkIzaL_hpw",
+    "verifier": "fusemax",
+    "verification": "https://www.youtube.com/watch?v=RCgx4pVPkTc",
     "percentToQualify": 100,
     "password": "Not Copyable",
-    "records": [
+    "records": [        
+        {
+            "user": "Altaspooneus",
+            "link": "https://youtu.be/iWf1CLhnuXE?si=ZIRnKrMkIzaL_hpw",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
