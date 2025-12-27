@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/OcDrncM5G2Y?si=Hs2jWbRC04jFswDq",
     "percentToQualify": 100,
     "password": "Not Copyable",
-    "records": [
+    "records": [        
+        {
+            "user": "Altaspooneus",
+            "link": "https://youtu.be/4SoeYc4yE3w?si=0BkhUL57REO19jDJ",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
