@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/6JcDAxbIW2g",
     "percentToQualify": 100,
     "password": "Not Copyable",
-    "records": [
+    "records": [       
+        {
+            "user": "YourLighy",
+            "link": "https://youtu.be/JXXntl3l4qo?si=_Pes_MyNU2Baj_Gu",
+            "percent": 100,
+            "hz": 280
+        }
     ]
 }
