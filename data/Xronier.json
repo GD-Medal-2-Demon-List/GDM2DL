@@ -3,14 +3,14 @@
     "name": "Xronier",
     "author": "JinoBeats",
     "creators": ["JinoBeats"],
-    "verifier": "sn0w",
-    "verification": "https://youtu.be/eO_ykSTE3A0",
+    "verifier": "alen",
+    "verification": "https://youtu.be/nLZfMrz9_wg?si=c2RqvE1IasrmDGxR",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
                 {
-            "user": "alen",
-            "link": "https://youtu.be/nLZfMrz9_wg?si=c2RqvE1IasrmDGxR",
+            "user": "sn0w",
+            "link": "https://youtu.be/eO_ykSTE3A0",
             "percent": 100,
             "hz": 240
         }
