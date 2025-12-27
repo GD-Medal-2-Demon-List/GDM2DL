@@ -1,1 +1,18 @@
-
+{
+    "id": 52919433,
+    "name": "Arctic Lights",
+    "author": "Metalface221",
+    "creators": ["Endlevel", "iIiViRuZiIi", "Hantein"],
+    "verifier": "Bizdogg",
+    "verification": "https://youtu.be/KIUu4U6WsJ4?si=PiViPUxOxA3dhmxz",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Sraczong",
+            "link": "https://medal.tv/games/geometry-dash/clips/lEccDdncWv1GlRkef/spok?invite=cr-MSxkRGYsMjYzNDc5NzYyLA",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
