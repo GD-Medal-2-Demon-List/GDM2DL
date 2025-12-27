@@ -14,9 +14,11 @@
             "percent": 100,
             "hz": 480
         },
+        {
             "user": "InternetDasher",
             "link": "https://youtu.be/lCctnIdSGfw?si=qaIWI_swUvzUDtl8",
             "percent": 100,
             "hz": 240
+        }
     ]    
 }
