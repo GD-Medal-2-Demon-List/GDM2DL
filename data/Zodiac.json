@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+                {
+            "user": "Snake",
+            "link": "https://youtu.be/CbFtcUJtYhw?si=DfPW6E_EMoAst3nH",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
