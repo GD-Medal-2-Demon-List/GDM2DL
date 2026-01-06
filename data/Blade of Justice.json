@@ -8,5 +8,17 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+         {
+            "user": "Screendoe",
+            "link": "https://youtu.be/g5RJ2wp4T_Y?si=hrtCXn1LoQv_owXP",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Overconfident",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
