@@ -8,5 +8,17 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+                {
+            "user": "Squidkid72",
+            "link": "https://medal.tv/games/geometry-dash/clips/1Tir0zcRz-CuOY?invite=cr-MSx6NVMsMjEyMTU0NjM2",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Screendoe",
+            "link": "https://youtu.be/ANzPReCABiQ?si=A2TZG81-GFLZV2gd",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
