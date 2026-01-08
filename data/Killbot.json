@@ -3,8 +3,8 @@
     "name": "Killbot",
     "author": "Boldstep",
     "creators": ["Lithifusion"],
-    "verifier": "YourLighy",
-    "verification": "https://www.youtube.com/watch?v=WWGwWSDrEsU",
+    "verifier": "Reaction",
+    "verification": "https://www.youtube.com/watch?v=if2xJq6Gx5s&t=46s",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [        
@@ -24,6 +24,12 @@
             "link": "https://medal.tv/games/geometry-dash/clips/2bTUpkMSyOXA8C?invite=cr-MSxZSmksMjAxNjg2NTgw&v=120",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "YourLighy",
+            "link": "https://www.youtube.com/watch?v=WWGwWSDrEsU",
+            "percent": 100,
+            "hz": 280
         }
     ]
 }
