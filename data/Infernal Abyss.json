@@ -3,16 +3,22 @@
     "name": "Infernal Abyss",
     "author": "GgB0y",
     "creators": ["GgB0y and more"],
-    "verifier": "Semeboy58",
-    "verification": "https://youtu.be/OSoa0ztJTrE?si=syX1-ij3fnSz1MHx",
+    "verifier": "sn0w",
+    "verification": "https://youtu.be/2EJv_8PMoA8?si=BoqRAu-UoQxjQK_t",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
                 {
+            "user": "Semeboy58",
+            "link": "https://youtu.be/OSoa0ztJTrE?si=syX1-ij3fnSz1MHx",
+            "percent": 100,
+            "hz": 144
+        },
+        {
             "user": "NotMaxzGD",
             "link": "https://youtu.be/RHLgPOEVP-o?si=JMbynSn4TYTFj0xL",
             "percent": 100,
             "hz": 165
-        }
+        }  
     ]
 }
