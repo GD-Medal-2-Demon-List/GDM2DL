@@ -1,4 +1,4 @@
-[
+{
     "id": ,38765979
     "name": "Mujigae",
     "author": "REDACTED",
@@ -8,6 +8,6 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        ]
+        {
     ]
 }
