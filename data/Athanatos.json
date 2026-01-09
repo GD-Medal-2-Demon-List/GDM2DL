@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+         {
+            "user": "LolamaZon",
+            "link": "https://youtu.be/COsUnbLG2P0?t=596",
+            "percent": 100,
+            "hz": 720
+        }
     ]
 }
