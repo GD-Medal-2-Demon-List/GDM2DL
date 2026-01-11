@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+                {
+            "user": "nBerry",
+            "link": "https://medal.tv/games/geometry-dash/clips/lRNdiS5VoRxhia88Z?invite=cr-MSxmWlUsMjYwMzk1MzQ3",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
