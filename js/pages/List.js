@@ -100,13 +100,16 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks. CBF is allowed while Physics Bypass is not. (Frame Extrapolation is also allowed)
+                        Achieve the record without using hacks. CBF is allowed while Physics Bypass is not. (Frame Extrapolation is also allowed)
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record.
+                        Achieve the record on the level that is listed on the site - please check the level ID before you submit a record.
                     </p>
                     <p>
                         Have either source audio or clicks/taps in the video. Records without them can lead to being denied.
+                    </p>
+                    <p>
+                        If you have "Verified" a level on the list, we only accept YouTube videos not Medal.tv. This is because of the way Medal.tv embeds look, not our fault.
                     </p>
                     <p>
                         Raw Footage is required for levels that are 'Top 400' on the AREDL. If you already have your record accepted on AREDL/Pointercrate then skip the raw footage question in the form.
