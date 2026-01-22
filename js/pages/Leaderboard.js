@@ -92,6 +92,103 @@ export default {
             </div>
         </main>
     `,
+
+     data: () => ({
+        loading: true,
+        leaderboard: [],
+        err: [],
+        notFound: undefined,
+        selected: 0,
+        store,
+        searchQuery: '',
+        copied: false,
+        selectedNation: null,
+        flags: {}
+    }),
+
+    methods: {
+        localize,
+        rgbaBind,
+        packColor,
+        copyURL,
+        selectFromParam() {
+            if (this.$route.params.user) {
+                const returnedIndex = this.leaderboard.findIndex(
+                    (entry) => 
+                        entry.user.toLowerCase().replaceAll(" ", "_") === this.$route.params.user.toLowerCase()
+                );
+                if (returnedIndex !== -1) this.selected = returnedIndex;
+                else {
+                    this.notFound = this.$route.params.user;
+                    console.log(this.notFound)
+                }
+            }
+        },
+        scrollToSelected() {
+            this.$nextTick(() => {
+                const selectedElement = this.$refs.selected;
+                if (selectedElement && selectedElement[0] && selectedElement[0].firstChild) {
+                    selectedElement[selectedElement.length - 1].firstChild.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }
+            });
+        }
+    },
+
+    computed: {
+        entry() {
+            return this.leaderboard[this.selected];
+        },
+
+        filteredLeaderboard() {
+            const query = this.searchQuery.toLowerCase().replace(/\s/g, '');
+    
+            // Map each entry with its original index and filter based on the user name
+            return this.leaderboard
+                .map((entry, index) => ({ index, entry }))
+                .filter(({ entry }) =>
+                    (this.searchQuery.trim() ? entry.user.toLowerCase().includes(query) : true) &&
+                    (this.selectedNation ? entry.flag === this.selectedNation : true)
+                );
+        },
+    },
+
+    async mounted() {
+        // Fetch leaderboard and errors from store
+        const [leaderboard, err] = this.store.leaderboard;
+        this.leaderboard = leaderboard;
+        this.err = err;
+
+        this.flags = await fetch("../../data/_flags.json")
+            .then(async (res) => await res.json())
+        this.flagMap = await fetch("../../data/_flagMap.json")
+            .then(async (res) => await res.json())
+        
+        var ret = {};
+        for (var key in this.flagMap) {
+            ret[this.flagMap[key]] = key;
+        }
+
+        this.flagMap = Object.fromEntries(
+            Object.entries(ret).filter(([key, value]) => Object.values(this.flags).includes(key))
+        );
+        
+        this.selectFromParam()
+
+        // Hide loading spinner
+        this.loading = false;
+    },
+
+    watch: {
+        store: {
+            handler(updated) {
+                this.leaderboard = updated.leaderboard[0]
+                this.err = updated.errors
+                this.selectFromParam()
+            }, 
+            deep: true
+        }
+    },
+};
     computed: {
         entry() {
             return this.leaderboard[this.selected];
