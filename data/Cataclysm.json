@@ -8,5 +8,17 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Screendoe",
+            "link": "https://youtu.be/8ozn19NYIQY?si=0iEXOxBDkgnLZ_AE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Sraczong",
+            "link": "https://medal.tv/games/geometry-dash/clips/l8TXRepiPYGL3-jjU?invite=cr-MSxMZVgsMjYzNDc5NzYy&v=218",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
