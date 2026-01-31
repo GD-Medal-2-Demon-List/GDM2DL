@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+                {
+            "user": "Lol amaZon",
+            "link": "https://youtu.be/wy5_AhAr6tE?si=CxobxEK4NxuDj_g8",
+            "percent": 100,
+            "hz": 720
+        }
     ]
 }
