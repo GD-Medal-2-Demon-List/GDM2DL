@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "46290",
     "records": [
+                {
+            "user": "harrow",
+            "link": "https://medal.tv/games/geometry-dash/clips/kqsBDPn37xGY-5XWg?invite=cr-MSxqWkUsMjAzMjYwMTYy",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
