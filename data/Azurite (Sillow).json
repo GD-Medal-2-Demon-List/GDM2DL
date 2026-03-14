@@ -8,5 +8,17 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+      {
+            "user": "Sraczong",
+            "link": "https://medal.tv/games/geometry-dash/clips/lEAz4MSzWetfuy22S/spok?invite=cr-MSxFdkwsMjYzNDc5NzYyLA",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "NotMaxzGD",
+            "link": "https://youtu.be/dvZKMEmyd7E?si=i-klX9G-Z8Ti5Tg_",
+            "percent": 100,
+            "hz": 165
+        }
     ]
 }
