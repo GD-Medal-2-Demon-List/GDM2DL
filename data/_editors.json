@@ -10,14 +10,14 @@
         "link": "https://youtube.com/@quincydawg?si=BbnOPPeFVocuT0R_"
     },
     {
-        "role": "helper",
+        "role": "trial",
         "name": "List Moderator: NotmaxzGD",
         "link": "https://www.youtube.com/@NotMaxzGD"
     },
     {
-        "role": "trial",
-        "name": "Trial List Moderator: N/A",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "helper",
+        "name": "List Helper: Dyno",
+        "link": "https://youtube.com/@dynoreal?si=usYtdMhdQJtlKg7p"
     },
     {
         "role": "dev",
