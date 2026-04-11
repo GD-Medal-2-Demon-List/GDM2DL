@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+                {
+            "user": "yourlighly_",
+            "link": "https://www.youtube.com/watch?v=XbC_QCxCyvw",
+            "percent": 100,
+            "hz": 280
+        }
     ]
 }
