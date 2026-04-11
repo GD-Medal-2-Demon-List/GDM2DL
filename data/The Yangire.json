@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+                {
+            "user": "Kyruniko",
+            "link": "https://www.youtube.com/watch?v=3QT37ip_5m8",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
